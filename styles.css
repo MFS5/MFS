@@ -1,0 +1,135 @@
+/*************************************TAG SELECTORS***************************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  color: #820933;
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Architects Daughter', cursive;
+}
+
+h2 {
+  color: #820933;
+  font-size: 1.8rem;
+  font-family: 'Merriweather', serif;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #CADBC0 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+a {
+color: #417B5A;
+  font-family: 'Merriweather', serif;
+margin: 10px 20px;
+text-decoration: none;}
+
+a:hover {
+  color: #820933;
+}
+
+/*************************************CLASS SELECTORS***************************/
+.bottom-cloud {
+  position: absolute;
+  left: 280px;
+  bottom: 280px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+
+.top-container {
+  padding-top: 100px;
+background-color:#FFD4D4;
+position: relative; }
+
+  .Skill-row {
+  width: 50%;
+  margin: auto;
+  padding-bottom: 40px;
+  text-align: left;
+
+}
+
+.Design {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.Learning {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.AfbeeldingP {
+  width: 300px;
+}
+
+
+.BUTTON_FBK {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+  font-family: 'Merriweather', serif;
+   font-size: 30px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #820933;
+   border: solid #820933 1px;
+   margin: 30px auto 30px auto;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.bottom-container{
+  padding: 50px 0 50px 0;
+  background-color:#CADBC0;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.Intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contactmessage {
+  width: 30%;
+  margin: auto;
+}
+
+.copyright {
+  color: #417B5A;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
